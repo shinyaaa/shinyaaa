@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Shinya Kato 👋
+- I like databases, especially PostgreSQL. My contributions to PostgreSQL is [here](https://git.postgresql.org/gitweb/?p=postgresql.git&a=search&h=HEAD&st=commit&s=Shinya+Kato).
+- My information (including presentation slides) is on my [LinkedIn](https://www.linkedin.com/in/shinya-kato-postgresql/).
+- Contact me on [X](https://twitter.com/ShinyaKato_) or [LinkedIn](https://www.linkedin.com/in/shinya-kato-postgresql/).
 
-<!--
-**shinyaaa/shinyaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shinyaaa&theme=github)
 
-Here are some ideas to get you started:
+<a>
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shinyaaa&theme=github" />
+</a>
+<a>
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shinyaaa&theme=github" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
